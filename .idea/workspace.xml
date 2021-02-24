@@ -1,6 +1,186 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
+  <component name="BranchesTreeState">
+    <expand>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="LOCAL_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="GROUP_NODE:origin" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+    </expand>
+    <select />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="ac4fe416-5df5-47e5-b0a6-e7d0ca15bd75" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/exe1/public/data/data.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/exe1/public/image/1.jfif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/exe1/public/image/2.jfif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/exe1/public/image/3.jfif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/exe1/public/image/4.jfif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/exe1/public/image/404.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/exe1/public/image/5.jfif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/exe1/public/image/500.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/exe1/public/image/6.jfif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/exe1/public/image/about.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/exe1/public/image/contact.webp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/exe1/routes/404.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/exe1/routes/500.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/exe1/routes/about.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/exe1/routes/api.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/exe1/routes/contact.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/exe1/routes/home.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/exe1/routes/product.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/exe1/views/pages/404.ejs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/exe1/views/pages/500.ejs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/exe1/views/pages/about.ejs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/exe1/views/pages/contact.ejs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/exe1/views/pages/home.ejs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/exe1/views/pages/product.ejs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/exe1/views/partials/footer.ejs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/exe1/views/partials/head.ejs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/exe1/views/partials/header.ejs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/exe1/views/partials/product-card.ejs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/exe8/app.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/exe8/package-lock.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/exe8/package.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/exe8/public/image/404.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/exe8/public/image/500.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/exe8/public/style/style.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/exe8/routes/404.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/exe8/routes/500.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/exe8/routes/api.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/exe8/routes/login.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/exe8/routes/signup.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/exe8/views/pages/404.ejs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/exe8/views/pages/500.ejs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/exe8/views/partials/footer.ejs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/exe8/views/partials/head.ejs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/exe8/views/partials/header.ejs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/exe1/app.js" beforeDir="false" afterPath="$PROJECT_DIR$/exe1/app.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/exe1/package-lock.json" beforeDir="false" afterPath="$PROJECT_DIR$/exe1/package-lock.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/exe1/public/data.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/exe1/views/index.ejs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/exe1/views/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/exe1/public/style/style.css" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="CSS File" />
+        <option value="JavaScript File" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+    <option name="RESET_MODE" value="MIXED" />
+  </component>
+  <component name="ProjectId" id="1opjcnrx9CtagbMdPZ7wT5rFaOr" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
   <component name="PropertiesComponent">
-    <property name="last_opened_file_path" value="E:/Mohammad/دوره NodeJS" />
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/exe8/public/image" />
+    <property name="list.type.of.created.stylesheet" value="CSS" />
+    <property name="nodejs_package_manager_path" value="npm" />
+    <property name="settings.editor.selected.configurable" value="File.Encoding" />
+    <property name="vue.rearranger.settings.migration" value="true" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="E:\Mohammad\Mohammad_Reza_Mirzade_hw14_maktab45\exe1\public\data" />
+      <recent name="E:\Mohammad\Mohammad_Reza_Mirzade_hw14_maktab45\exe1\views" />
+      <recent name="E:\Mohammad\Mohammad_Reza_Mirzade_hw14_maktab45\exe1\views\pages" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="E:\Mohammad\Mohammad_Reza_Mirzade_hw14_maktab45\exe8\public\image" />
+      <recent name="E:\Mohammad\Mohammad_Reza_Mirzade_hw14_maktab45\exe8\public\style" />
+      <recent name="E:\Mohammad\Mohammad_Reza_Mirzade_hw14_maktab45\exe8\views\partials" />
+      <recent name="E:\Mohammad\Mohammad_Reza_Mirzade_hw14_maktab45\exe8\views\pages" />
+      <recent name="E:\Mohammad\Mohammad_Reza_Mirzade_hw14_maktab45\exe8\routes" />
+    </key>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="ac4fe416-5df5-47e5-b0a6-e7d0ca15bd75" name="Default Changelist" comment="" />
+      <created>1613990509081</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1613990509081</updated>
+      <workItem from="1613990510191" duration="464000" />
+      <workItem from="1613990990031" duration="38945000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+    <option name="oldMeFiltersMigrated" value="true" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="618" y="46" key="#Inspections" timestamp="1614063902415">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="618" y="46" key="#Inspections/0.0.1366.728@0.0.1366.728" timestamp="1614063902415" />
+    <state x="451" y="162" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1614018221117">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="451" y="162" key="#com.intellij.fileTypes.FileTypeChooser/0.0.1366.728@0.0.1366.728" timestamp="1614018221117" />
+    <state x="92" y="92" width="1182" height="544" key="DiffContextDialog" timestamp="1614064274095">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="92" y="92" width="1182" height="544" key="DiffContextDialog/0.0.1366.728@0.0.1366.728" timestamp="1614064274095" />
+    <state x="647" y="122" key="FileChooserDialogImpl" timestamp="1614064153905">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="647" y="122" key="FileChooserDialogImpl/0.0.1366.728@0.0.1366.728" timestamp="1614064153905" />
+    <state x="368" y="12" key="SettingsEditor" timestamp="1614064340535">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="368" y="12" key="SettingsEditor/0.0.1366.728@0.0.1366.728" timestamp="1614064340535" />
+    <state x="501" y="278" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1613992672353">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="501" y="278" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2/0.0.1366.728@0.0.1366.728" timestamp="1613992672353" />
+    <state x="146" y="168" width="1361" height="510" key="dock-window-1" timestamp="1614064274095">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="146" y="168" width="1361" height="510" key="dock-window-1/0.0.1366.728@0.0.1366.728" timestamp="1614064274095" />
+    <state x="339" y="162" key="run.anything.popup" timestamp="1614071022903">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="339" y="162" key="run.anything.popup/0.0.1366.728@0.0.1366.728" timestamp="1614071022903" />
+    <state x="346" y="49" width="672" height="678" key="search.everywhere.popup" timestamp="1613994728483">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="346" y="49" width="672" height="678" key="search.everywhere.popup/0.0.1366.728@0.0.1366.728" timestamp="1613994728483" />
   </component>
 </project>

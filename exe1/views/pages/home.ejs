@@ -1,0 +1,13 @@
+<!DOCTYPE html>
+<html lang="en">
+<%- include('../partials/head', {pageName: 'Home'}); %>
+<body>
+<%- include('../partials/header', {active: 'home'}); %>
+<div class="d-flex justify-content-around flex-wrap">
+    <% products.forEach(function(product) { %>
+        <%- include('../partials/product-card', {product: product}); %>
+    <% }); %>
+</div>
+<%- include('../partials/footer'); %>
+</body>
+</html>
