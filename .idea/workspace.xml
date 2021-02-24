@@ -19,58 +19,19 @@
     <select />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="ac4fe416-5df5-47e5-b0a6-e7d0ca15bd75" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/exe1/public/data/data.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/exe1/public/image/1.jfif" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/exe1/public/image/2.jfif" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/exe1/public/image/3.jfif" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/exe1/public/image/4.jfif" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/exe1/public/image/404.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/exe1/public/image/5.jfif" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/exe1/public/image/500.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/exe1/public/image/6.jfif" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/exe1/public/image/about.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/exe1/public/image/contact.webp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/exe1/routes/404.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/exe1/routes/500.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/exe1/routes/about.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/exe1/routes/api.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/exe1/routes/contact.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/exe1/routes/home.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/exe1/routes/product.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/exe1/views/pages/404.ejs" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/exe1/views/pages/500.ejs" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/exe1/views/pages/about.ejs" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/exe1/views/pages/contact.ejs" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/exe1/views/pages/home.ejs" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/exe1/views/pages/product.ejs" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/exe1/views/partials/footer.ejs" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/exe1/views/partials/head.ejs" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/exe1/views/partials/header.ejs" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/exe1/views/partials/product-card.ejs" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/exe8/app.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/exe8/package-lock.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/exe8/package.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/exe8/public/image/404.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/exe8/public/image/500.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/exe8/public/style/style.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/exe8/routes/404.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/exe8/routes/500.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/exe8/routes/api.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/exe8/routes/login.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/exe8/routes/signup.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/exe8/views/pages/404.ejs" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/exe8/views/pages/500.ejs" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/exe8/views/partials/footer.ejs" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/exe8/views/partials/head.ejs" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/exe8/views/partials/header.ejs" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
+    <list default="true" id="ac4fe416-5df5-47e5-b0a6-e7d0ca15bd75" name="Default Changelist" comment="Fix exe1 and add exe8.">
+      <change afterPath="$PROJECT_DIR$/exe8/public/data/users.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/exe8/routes/account.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/exe8/views/pages/account.ejs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/exe8/views/pages/login.ejs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/exe8/views/pages/signup.ejs" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/exe1/app.js" beforeDir="false" afterPath="$PROJECT_DIR$/exe1/app.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/exe1/package-lock.json" beforeDir="false" afterPath="$PROJECT_DIR$/exe1/package-lock.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/exe1/public/data.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/exe1/views/index.ejs" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/exe1/views/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/exe1/public/style/style.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/exe8/package-lock.json" beforeDir="false" afterPath="$PROJECT_DIR$/exe8/package-lock.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/exe8/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/exe8/package.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/exe8/routes/api.js" beforeDir="false" afterPath="$PROJECT_DIR$/exe8/routes/api.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/exe8/routes/login.js" beforeDir="false" afterPath="$PROJECT_DIR$/exe8/routes/login.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/exe8/routes/signup.js" beforeDir="false" afterPath="$PROJECT_DIR$/exe8/routes/signup.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/exe8/views/partials/header.ejs" beforeDir="false" afterPath="$PROJECT_DIR$/exe8/views/partials/header.ejs" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -117,6 +78,34 @@
       <recent name="E:\Mohammad\Mohammad_Reza_Mirzade_hw14_maktab45\exe8\routes" />
     </key>
   </component>
+  <component name="RunManager" selected="npm.start (1)">
+    <configuration name="start (1)" type="js.build_tools.npm" temporary="true" nameIsGenerated="true">
+      <package-json value="$PROJECT_DIR$/exe8/package.json" />
+      <command value="run" />
+      <scripts>
+        <script value="start" />
+      </scripts>
+      <node-interpreter value="project" />
+      <envs />
+      <method v="2" />
+    </configuration>
+    <configuration name="start" type="js.build_tools.npm" temporary="true" nameIsGenerated="true">
+      <package-json value="$PROJECT_DIR$/exe1/package.json" />
+      <command value="run" />
+      <scripts>
+        <script value="start" />
+      </scripts>
+      <node-interpreter value="project" />
+      <envs />
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="npm.start (1)" />
+        <item itemvalue="npm.start" />
+      </list>
+    </recent_temporary>
+  </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
@@ -126,8 +115,17 @@
       <option name="presentableId" value="Default" />
       <updated>1613990509081</updated>
       <workItem from="1613990510191" duration="464000" />
-      <workItem from="1613990990031" duration="38945000" />
+      <workItem from="1613990990031" duration="40974000" />
+      <workItem from="1614165877277" duration="12537000" />
     </task>
+    <task id="LOCAL-00001" summary="Fix exe1 and add exe8.">
+      <created>1614158389237</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1614158389237</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -144,6 +142,10 @@
       </map>
     </option>
     <option name="oldMeFiltersMigrated" value="true" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="Fix exe1 and add exe8." />
+    <option name="LAST_COMMIT_MESSAGE" value="Fix exe1 and add exe8." />
   </component>
   <component name="WindowStateProjectService">
     <state x="618" y="46" key="#Inspections" timestamp="1614063902415">
@@ -162,10 +164,30 @@
       <screen x="0" y="0" width="1366" height="728" />
     </state>
     <state x="647" y="122" key="FileChooserDialogImpl/0.0.1366.728@0.0.1366.728" timestamp="1614064153905" />
+    <state width="1345" height="172" key="GridCell.Tab.0.bottom" timestamp="1614187642751">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1345" height="172" key="GridCell.Tab.0.bottom/0.0.1366.728@0.0.1366.728" timestamp="1614187642751" />
+    <state width="1345" height="172" key="GridCell.Tab.0.center" timestamp="1614187642751">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1345" height="172" key="GridCell.Tab.0.center/0.0.1366.728@0.0.1366.728" timestamp="1614187642751" />
+    <state width="1345" height="172" key="GridCell.Tab.0.left" timestamp="1614187642751">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1345" height="172" key="GridCell.Tab.0.left/0.0.1366.728@0.0.1366.728" timestamp="1614187642751" />
+    <state width="1345" height="172" key="GridCell.Tab.0.right" timestamp="1614187642751">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1345" height="172" key="GridCell.Tab.0.right/0.0.1366.728@0.0.1366.728" timestamp="1614187642751" />
     <state x="368" y="12" key="SettingsEditor" timestamp="1614064340535">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
     <state x="368" y="12" key="SettingsEditor/0.0.1366.728@0.0.1366.728" timestamp="1614064340535" />
+    <state x="275" y="93" key="Vcs.Push.Dialog.v2" timestamp="1614158466468">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="275" y="93" key="Vcs.Push.Dialog.v2/0.0.1366.728@0.0.1366.728" timestamp="1614158466468" />
     <state x="501" y="278" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1613992672353">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
