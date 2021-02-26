@@ -1,8 +1,27 @@
 <!DOCTYPE html>
 <html lang="en">
-<%- include('../partials/head', {pageName: "404"}); %>
+<%- include('../partials/head', {pageName: "Signup"}); %>
 <body>
-<%- include("../partials/header", {active: 0}) %>
+<%- include("../partials/header", {active: 'signup'}) %>
+
+<div class="container my-5">
+    <form method="post">
+        <div class="mb-3">
+            <label for="user" class="form-label">User name: </label>
+            <input type="text" class="form-control" id="user" name="user" aria-describedby="emailHelp">
+        </div>
+        <div class="mb-3">
+            <label for="exampleInputPassword1" class="form-label">Password: </label>
+            <input type="password" class="form-control" name="password" id="password">
+        </div>
+        <div class="mb-3">
+            <label for="exampleFormControlInput1" class="form-label">Email address</label>
+            <input type="email" class="form-control" id="email" placeholder="name@example.com">
+        </div>
+
+        <button type="submit" class="btn btn-primary">Enter</button>
+    </form>
+</div>
 
 
 <%- include("../partials/footer") %>

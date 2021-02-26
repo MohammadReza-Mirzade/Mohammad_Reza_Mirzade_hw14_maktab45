@@ -6,7 +6,17 @@ router.get("/", function (req, res){
 });
 
 router.post("/", function (req, res){
-
+    fs.readFile(path.join(__dirname, "../public/data/users.json"), 'utf8', function (err, data){
+        let user = JSON.parse(data).find(function (element){
+            return element.user === req.body.user;
+        });
+        if (!user){
+            fs.wr
+            res.redirect("/login");
+        } else {
+            res.send("user");
+        }
+    });
 });
 
 module.exports = router;

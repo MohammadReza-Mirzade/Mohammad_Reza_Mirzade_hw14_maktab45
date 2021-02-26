@@ -19,18 +19,32 @@
     <select />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="ac4fe416-5df5-47e5-b0a6-e7d0ca15bd75" name="Default Changelist" comment="Fix exe1 and add exe8.">
-      <change afterPath="$PROJECT_DIR$/exe8/public/data/users.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/exe8/routes/account.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/exe8/views/pages/account.ejs" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/exe8/views/pages/login.ejs" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/exe8/views/pages/signup.ejs" afterDir="false" />
+    <list default="true" id="ac4fe416-5df5-47e5-b0a6-e7d0ca15bd75" name="Default Changelist" comment="Fix exe8.">
+      <change afterPath="$PROJECT_DIR$/exe8/public/image/persmission.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/exe8/public/js/login.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/exe8/public/js/signup.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/exe8/views/pages/haventPermission.ejs" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/exe8/package-lock.json" beforeDir="false" afterPath="$PROJECT_DIR$/exe8/package-lock.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/exe1/app.js" beforeDir="false" afterPath="$PROJECT_DIR$/exe1/app.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/exe1/public/data/data.json" beforeDir="false" afterPath="$PROJECT_DIR$/exe1/public/data/data.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/exe1/routes/api.js" beforeDir="false" afterPath="$PROJECT_DIR$/exe1/routes/api.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/exe1/routes/home.js" beforeDir="false" afterPath="$PROJECT_DIR$/exe1/routes/home.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/exe1/routes/product.js" beforeDir="false" afterPath="$PROJECT_DIR$/exe1/routes/product.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/exe1/views/pages/home.ejs" beforeDir="false" afterPath="$PROJECT_DIR$/exe1/views/pages/home.ejs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/exe1/views/partials/head.ejs" beforeDir="false" afterPath="$PROJECT_DIR$/exe1/views/partials/head.ejs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/exe1/views/partials/product-card.ejs" beforeDir="false" afterPath="$PROJECT_DIR$/exe1/views/partials/product-card.ejs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/exe8/app.js" beforeDir="false" afterPath="$PROJECT_DIR$/exe8/app.js" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/exe8/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/exe8/package.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/exe8/public/data/users.json" beforeDir="false" afterPath="$PROJECT_DIR$/exe8/public/data/users.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/exe8/routes/500.js" beforeDir="false" afterPath="$PROJECT_DIR$/exe8/routes/500.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/exe8/routes/account.js" beforeDir="false" afterPath="$PROJECT_DIR$/exe8/routes/account.js" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/exe8/routes/api.js" beforeDir="false" afterPath="$PROJECT_DIR$/exe8/routes/api.js" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/exe8/routes/login.js" beforeDir="false" afterPath="$PROJECT_DIR$/exe8/routes/login.js" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/exe8/routes/signup.js" beforeDir="false" afterPath="$PROJECT_DIR$/exe8/routes/signup.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/exe8/views/pages/account.ejs" beforeDir="false" afterPath="$PROJECT_DIR$/exe8/views/pages/account.ejs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/exe8/views/pages/login.ejs" beforeDir="false" afterPath="$PROJECT_DIR$/exe8/views/pages/login.ejs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/exe8/views/pages/signup.ejs" beforeDir="false" afterPath="$PROJECT_DIR$/exe8/views/pages/signup.ejs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/exe8/views/partials/head.ejs" beforeDir="false" afterPath="$PROJECT_DIR$/exe8/views/partials/head.ejs" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/exe8/views/partials/header.ejs" beforeDir="false" afterPath="$PROJECT_DIR$/exe8/views/partials/header.ejs" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -65,17 +79,17 @@
     <property name="vue.rearranger.settings.migration" value="true" />
   </component>
   <component name="RecentsManager">
-    <key name="MoveFile.RECENT_KEYS">
-      <recent name="E:\Mohammad\Mohammad_Reza_Mirzade_hw14_maktab45\exe1\public\data" />
-      <recent name="E:\Mohammad\Mohammad_Reza_Mirzade_hw14_maktab45\exe1\views" />
-      <recent name="E:\Mohammad\Mohammad_Reza_Mirzade_hw14_maktab45\exe1\views\pages" />
-    </key>
     <key name="CopyFile.RECENT_KEYS">
       <recent name="E:\Mohammad\Mohammad_Reza_Mirzade_hw14_maktab45\exe8\public\image" />
       <recent name="E:\Mohammad\Mohammad_Reza_Mirzade_hw14_maktab45\exe8\public\style" />
       <recent name="E:\Mohammad\Mohammad_Reza_Mirzade_hw14_maktab45\exe8\views\partials" />
       <recent name="E:\Mohammad\Mohammad_Reza_Mirzade_hw14_maktab45\exe8\views\pages" />
       <recent name="E:\Mohammad\Mohammad_Reza_Mirzade_hw14_maktab45\exe8\routes" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="E:\Mohammad\Mohammad_Reza_Mirzade_hw14_maktab45\exe1\public\data" />
+      <recent name="E:\Mohammad\Mohammad_Reza_Mirzade_hw14_maktab45\exe1\views" />
+      <recent name="E:\Mohammad\Mohammad_Reza_Mirzade_hw14_maktab45\exe1\views\pages" />
     </key>
   </component>
   <component name="RunManager" selected="npm.start (1)">
@@ -116,7 +130,9 @@
       <updated>1613990509081</updated>
       <workItem from="1613990510191" duration="464000" />
       <workItem from="1613990990031" duration="40974000" />
-      <workItem from="1614165877277" duration="12537000" />
+      <workItem from="1614165877277" duration="12864000" />
+      <workItem from="1614233799395" duration="6709000" />
+      <workItem from="1614251649101" duration="29259000" />
     </task>
     <task id="LOCAL-00001" summary="Fix exe1 and add exe8.">
       <created>1614158389237</created>
@@ -125,7 +141,14 @@
       <option name="project" value="LOCAL" />
       <updated>1614158389237</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="Fix exe8.">
+      <created>1614189788017</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1614189788017</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -145,9 +168,14 @@
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="Fix exe1 and add exe8." />
-    <option name="LAST_COMMIT_MESSAGE" value="Fix exe1 and add exe8." />
+    <MESSAGE value="Fix exe8." />
+    <option name="LAST_COMMIT_MESSAGE" value="Fix exe8." />
   </component>
   <component name="WindowStateProjectService">
+    <state x="435" y="169" key="#Images" timestamp="1614316244898">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="435" y="169" key="#Images/0.0.1366.728@0.0.1366.728" timestamp="1614316244898" />
     <state x="618" y="46" key="#Inspections" timestamp="1614063902415">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
@@ -160,34 +188,34 @@
       <screen x="0" y="0" width="1366" height="728" />
     </state>
     <state x="92" y="92" width="1182" height="544" key="DiffContextDialog/0.0.1366.728@0.0.1366.728" timestamp="1614064274095" />
-    <state x="647" y="122" key="FileChooserDialogImpl" timestamp="1614064153905">
+    <state x="647" y="122" key="FileChooserDialogImpl" timestamp="1614316243698">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state x="647" y="122" key="FileChooserDialogImpl/0.0.1366.728@0.0.1366.728" timestamp="1614064153905" />
-    <state width="1345" height="172" key="GridCell.Tab.0.bottom" timestamp="1614187642751">
+    <state x="647" y="122" key="FileChooserDialogImpl/0.0.1366.728@0.0.1366.728" timestamp="1614316243698" />
+    <state width="1345" height="172" key="GridCell.Tab.0.bottom" timestamp="1614190095915">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state width="1345" height="172" key="GridCell.Tab.0.bottom/0.0.1366.728@0.0.1366.728" timestamp="1614187642751" />
-    <state width="1345" height="172" key="GridCell.Tab.0.center" timestamp="1614187642751">
+    <state width="1345" height="172" key="GridCell.Tab.0.bottom/0.0.1366.728@0.0.1366.728" timestamp="1614190095915" />
+    <state width="1345" height="172" key="GridCell.Tab.0.center" timestamp="1614190095915">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state width="1345" height="172" key="GridCell.Tab.0.center/0.0.1366.728@0.0.1366.728" timestamp="1614187642751" />
-    <state width="1345" height="172" key="GridCell.Tab.0.left" timestamp="1614187642751">
+    <state width="1345" height="172" key="GridCell.Tab.0.center/0.0.1366.728@0.0.1366.728" timestamp="1614190095915" />
+    <state width="1345" height="172" key="GridCell.Tab.0.left" timestamp="1614190095907">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state width="1345" height="172" key="GridCell.Tab.0.left/0.0.1366.728@0.0.1366.728" timestamp="1614187642751" />
-    <state width="1345" height="172" key="GridCell.Tab.0.right" timestamp="1614187642751">
+    <state width="1345" height="172" key="GridCell.Tab.0.left/0.0.1366.728@0.0.1366.728" timestamp="1614190095907" />
+    <state width="1345" height="172" key="GridCell.Tab.0.right" timestamp="1614190095915">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state width="1345" height="172" key="GridCell.Tab.0.right/0.0.1366.728@0.0.1366.728" timestamp="1614187642751" />
+    <state width="1345" height="172" key="GridCell.Tab.0.right/0.0.1366.728@0.0.1366.728" timestamp="1614190095915" />
     <state x="368" y="12" key="SettingsEditor" timestamp="1614064340535">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
     <state x="368" y="12" key="SettingsEditor/0.0.1366.728@0.0.1366.728" timestamp="1614064340535" />
-    <state x="275" y="93" key="Vcs.Push.Dialog.v2" timestamp="1614158466468">
+    <state x="275" y="93" key="Vcs.Push.Dialog.v2" timestamp="1614189784247">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state x="275" y="93" key="Vcs.Push.Dialog.v2/0.0.1366.728@0.0.1366.728" timestamp="1614158466468" />
+    <state x="275" y="93" key="Vcs.Push.Dialog.v2/0.0.1366.728@0.0.1366.728" timestamp="1614189784247" />
     <state x="501" y="278" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1613992672353">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
@@ -196,10 +224,10 @@
       <screen x="0" y="0" width="1366" height="728" />
     </state>
     <state x="146" y="168" width="1361" height="510" key="dock-window-1/0.0.1366.728@0.0.1366.728" timestamp="1614064274095" />
-    <state x="339" y="162" key="run.anything.popup" timestamp="1614071022903">
+    <state x="339" y="162" key="run.anything.popup" timestamp="1614317094212">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state x="339" y="162" key="run.anything.popup/0.0.1366.728@0.0.1366.728" timestamp="1614071022903" />
+    <state x="339" y="162" key="run.anything.popup/0.0.1366.728@0.0.1366.728" timestamp="1614317094212" />
     <state x="346" y="49" width="672" height="678" key="search.everywhere.popup" timestamp="1613994728483">
       <screen x="0" y="0" width="1366" height="728" />
     </state>

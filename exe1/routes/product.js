@@ -7,7 +7,7 @@ router.use("/:link", function (req, res, next){
     fs.readFile(path.join(__dirname, "../public/data/data.json"), "utf8", function (err, data) {
         if (err){return res.status(500).render('pages/500')};
         let product = JSON.parse(data).find(function (element){
-            return element["link"] === req.params["link"];
+            return element["id"] === req.params["link"];
         });
         if(!product) return next();
         res.render("./pages/product", {product: product});

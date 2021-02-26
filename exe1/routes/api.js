@@ -11,7 +11,7 @@ const product = require("./product");
 router.get('/', function (req, res){
     res.redirect('/home');
 });
-router.get("/home", home);
+router.use("/home", home);
 router.get("/about", about);
 router.get("/contact", contact);
 router.use("/product", product);

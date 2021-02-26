@@ -12,7 +12,7 @@ router.get('/', function (req, res){
 });
 router.use('/signup', signup);
 router.use('/login', login);
-router.use("/",account);
+router.use("/account",account);
 router.use(error500);
 router.use(error404);
 

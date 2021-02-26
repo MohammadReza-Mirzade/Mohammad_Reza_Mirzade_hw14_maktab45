@@ -2,22 +2,23 @@
 <html lang="en">
 <%- include('../partials/head', {pageName: "Login"}); %>
 <body>
-<%- include("../partials/header", {active: 0}) %>
+<%- include("../partials/header", {active: "login"}) %>
 
-<div class="container">
-    <form>
+<div class="container my-5">
+    <form id="form">
         <div class="mb-3">
             <label for="user" class="form-label">User name: </label>
-            <input type="email" class="form-control" id="user" aria-describedby="emailHelp">
+            <input type="text" class="form-control" id="user" name="user" aria-describedby="emailHelp">
         </div>
         <div class="mb-3">
-            <label for="exampleInputPassword1" class="form-label">Password</label>
-            <input type="password" class="form-control" id="password">
+            <label for="exampleInputPassword1" class="form-label">Password: </label>
+            <input type="password" class="form-control" name="password" id="password">
         </div>
-        <button type="submit" class="btn btn-primary">Enter</button>
+        <button id="button" class="btn btn-primary">Enter</button>
     </form>
 </div>
 
 <%- include("../partials/footer") %>
+<script src="/js/login.js"></script>
 </body>
 </html>

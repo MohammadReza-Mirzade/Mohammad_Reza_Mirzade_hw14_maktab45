@@ -1,12 +1,11 @@
 <!DOCTYPE html>
 <html lang="en">
-<%- include('../partials/head', {pageName: user.name}); %>
+<%- include('../partials/head', {pageName: "500"}); %>
 <body>
 <%- include("../partials/header", {active: 0}) %>
 
-<%for(let val in user){%>
-<h1><%= val %> : <%= user[val] %></h1>
-<%}%>
+<img src="/image/persmission.png" class="bg-image">
+
 <%- include("../partials/footer") %>
 </body>
 </html>
