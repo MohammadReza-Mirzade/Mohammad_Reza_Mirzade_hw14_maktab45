@@ -9,21 +9,24 @@ router.get('/', function (req, res){
 
 
 router.post("/", function (req, res){
-    fs.readFile(path.join(__dirname, "../public/data/users.json"), 'utf8', function (err, data){
-        let userIndex = JSON.parse(data).findIndex(function (element){
+    fs.readFile(path.join(__dirname, "../db/users.json"), 'utf8', function (err, data){
+        let data1 = JSON.parse(data);
+        let userIndex = data1.findIndex(function (element){
             return element.user === req.body.user;
         });
-        if (!JSON.parse(data)[userIndex]){
+        let user = data1[userIndex];
+        if (!user){
             res.send("user");
         } else {
-            if (req.body.password === JSON.parse(data)[userIndex].password) {
-                let data1 = JSON.parse(data);
+            if (req.body.password === user.password) {
+                console.log(data1);
+                console.log(userIndex);
                 data1.pop(userIndex);
-                let user = JSON.parse(data)[userIndex];
                 user.isLoggedIn = true;
                 data1.push(user);
-                console.log(data1);
-                fs.writeFile(path.join(__dirname, "../public/data/users.json"), JSON.stringify(data1), function (err){
+                console.log(user);
+                console.log(data1)
+                fs.writeFile(path.join(__dirname, "../db/users.json"), JSON.stringify(data1), function (err){
                     if (err) return console.log(err);
                 });
                 res.send("/account/"+JSON.parse(data)[userIndex].user);

@@ -1,10 +1,23 @@
+$("#form").submit(function(e) {
+    e.preventDefault();
+});
+
 $("#button").click(function (){
-    $.ajax({
-        url: "",
-        success: function (result){
-            if (result === "user"){
-                alert("this user exist.")
+    console.log($("#user").val());
+    $.post("",
+        {
+            user: $("#user").val(),
+            password: $("#password").val(),
+            email: $("#email").val()
+        },
+        function(data, status) {
+            if (data === "password") {
+                alert("password is wrong.");
+            } else if (data === "user") {
+                alert("user does not exist.");
+            } else {
+                window.location.replace(data);
             }
         }
-    });
+    );
 });
